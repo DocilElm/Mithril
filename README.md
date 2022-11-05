@@ -1,0 +1,2 @@
+# Mithril
+ChatTriggers Module
