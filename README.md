@@ -2,9 +2,13 @@
 ChatTriggers Module
 
 ### Display
-This Module Displays Your Session Compact/Refined Procs And XP Gained
+* Session XP
+* Session Pet XP
+* Compact/Refined Procs
+* Goblins & Goblins Killed Total Powder
+* Purse Powder (gets it from scoreboard)
 
-<img src="https://cdn.discordapp.com/attachments/749514137335365643/1038350484093800458/image.png" width=50%>
+<img src="https://imgur.com/Xgt4ATP.png" width=50%>
 
 ### Commands
-* /mithril | Edit The Display Location
+* /mithril | For Settings
